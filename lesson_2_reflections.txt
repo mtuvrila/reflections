@@ -1,0 +1,4 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+Git creates it's own database files under .git folder. This shows to git that this folder is a repository
+2 How is the staging area different from the working directory and the repository? What value do you think it offers?
+this is an fileter/intermediate step beetween working dirctory and repository

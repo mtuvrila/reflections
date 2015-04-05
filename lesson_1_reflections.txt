@@ -1,0 +1,10 @@
+This is my introduction cours within udacity, will see how it is
+1 Software is creating writing the code, as a natural work, we can try repeat undo the things, but it is really hard to keep all of those tracking. 
+See diff between 'tries' is essential to find 'bugs'
+
+2. check the difference, see where I ve got wrong decision
+3. Probably as a programmer you better know when is the point to make commit [task end, bug fix ...]
+4. Different purposes: one for code with multiple changes, another for editing one document.
+5. 
+6. alway have the history of changes , at any time can check what was changed
+7 Change svn to git
